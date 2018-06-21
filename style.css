@@ -40,11 +40,11 @@
   float: right;
   font-family: 'Arvo', serif;
 }
-.heading {
+h1 {
   font-size: 26px
   font-family: 'Arvo', serif;
 }
-.about {
+p {
   font-family: 'Arvo', serif;
   font-size: 18px;
 }
