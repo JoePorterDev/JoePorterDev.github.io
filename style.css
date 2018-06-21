@@ -4,7 +4,7 @@
   display: block;
   margin: auto;
 }
-h1 {
+.photo-first-line {
   display: block;
   margin: auto;
   font-size: 26px;
@@ -39,4 +39,12 @@ h1 {
 .header-right {
   float: right;
   font-family: 'Arvo', serif;
+}
+.heading {
+  font-size: 26px
+  font-family: 'Arvo', serif;
+}
+.about {
+  font-family: 'Arvo', serif;
+  font-size: 18px;
 }
